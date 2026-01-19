@@ -2,7 +2,7 @@ import java.util.HashMap;
 
 public class FindCharacters {
     public static void main(String[] args) {
-        String word="Hheloo";
+        String word="Hhelloo";
         findDuplicateCharacters(word);
     }
     public static void findDuplicateCharacters(String word){
