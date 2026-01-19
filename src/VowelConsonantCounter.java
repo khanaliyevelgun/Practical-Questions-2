@@ -1,6 +1,6 @@
 public class VowelConsonantCounter {
     public static void main(String[] args) {
-        String word="Helloo";
+        String word="Heelloo";
         countVowelsAndConsonants(word);
     }
     public static void countVowelsAndConsonants(String word) {
