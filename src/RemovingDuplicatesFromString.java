@@ -1,6 +1,6 @@
 public class RemovingDuplicatesFromString {
     public static void main(String[] args) {
-        String word="Almma";
+        String word="Almmam";
         System.out.println(removeDuplicatesFromString(word));
     }
     public static String removeDuplicatesFromString(String word){
